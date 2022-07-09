@@ -1,1 +1,3 @@
-let mail = "bkfreites@gmail.com";
+let mailB = "bkfreites@gmail.com";
+let mailA= "camilasapino@gmail.com";
+
